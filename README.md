@@ -3,6 +3,7 @@
   <h2>数学基础</h2>
   <ul>
      <li><a href="https://github.com/lowguy/blog/issues/2">二进制 十进制</a></li>
+     <li><a href="https://github.com/lowguy/blog/issues/3">指数法则</a></li>
   </ul>
   <h2>PHP</h2>
   <ul>
