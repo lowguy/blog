@@ -9,5 +9,6 @@
   <ul>
      <li><a href="https://github.com/lowguy/blog/issues/1">php 的数据强制类型转换和默认类型转换</a></li>
      <li><a href="https://github.com/lowguy/blog/issues/5">php 的关键字之static</a></li>
+     <li><a href="https://github.com/lowguy/blog/issues/6">php 函数之func_num_args和func_get_arg</a></li>
   </ul>
 </section>
