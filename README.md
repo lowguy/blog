@@ -10,5 +10,7 @@
      <li><a href="https://github.com/lowguy/blog/issues/1">php 的数据强制类型转换和默认类型转换</a></li>
      <li><a href="https://github.com/lowguy/blog/issues/5">php 的关键字之static</a></li>
      <li><a href="https://github.com/lowguy/blog/issues/6">php 函数之func_num_args和func_get_arg</a></li>
+     <li><a href="https://github.com/lowguy/blog/issues/9">php 的&</a></li>
+     <li><a href="https://github.com/lowguy/blog/issues/7">双引号和单引号的区别</a></li>
   </ul>
 </section>
