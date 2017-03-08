@@ -9,6 +9,7 @@
   <ul>
      <li><a href="https://github.com/lowguy/blog/issues/14">冒泡排序</a></li>
      <li><a href="https://github.com/lowguy/blog/issues/15">快速排序</a></li>
+     <li><a href="https://github.com/lowguy/blog/issues/16">二分法查找</a></li>
   </ul>
   <h2>PHP</h2>
   <ul>
