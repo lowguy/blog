@@ -1,5 +1,9 @@
 # 精于心 简于形
 <section>
+  <h2>小功能</h2>
+  <ul>
+     <li><a href="https://github.com/lowguy/blog/issues/17">关于秒杀的一些思路</a></li>
+  </ul>
   <h2>数学基础</h2>
   <ul>
      <li><a href="https://github.com/lowguy/blog/issues/2">二进制 十进制</a></li>
