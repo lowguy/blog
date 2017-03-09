@@ -27,4 +27,10 @@
      <li><a href="https://github.com/lowguy/blog/issues/12">php socket</a></li>
      <li><a href="https://github.com/lowguy/blog/issues/13">http状态码</a></li>
   </ul>
+  <h2>mysql</h2>
+  <ul>
+     <li><a href="https://github.com/lowguy/blog/issues/18">mysql 增删改查</a></li>
+     <li><a href="https://github.com/lowguy/blog/issues/19">mysql 索引</a></li>
+     <li><a href="https://github.com/lowguy/blog/issues/20">mysql 锁</a></li>
+  </ul>
 </section>
